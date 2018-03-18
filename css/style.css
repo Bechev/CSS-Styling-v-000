@@ -12,4 +12,5 @@ figcaption{
   font-family: Helvetica, Georgia,  serif;*/
   font: normal 0.75em/1.5em Helvetica, Georgia,  serif;
   color: teal;
+  text-align: right;
 }
