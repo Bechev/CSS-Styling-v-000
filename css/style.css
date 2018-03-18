@@ -1,5 +1,6 @@
 /* This a comment */
 
 p {
-  font-size: 6px;
+  font-size: 1em;
+  line-height: 1.5em;
 }
