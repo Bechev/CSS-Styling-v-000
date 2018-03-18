@@ -26,3 +26,10 @@ figcaption{
 #logo{
   background-color: aqua;
 }
+
+#logo h1{
+  font-family: "Clicker script", cursive;
+}
+#logo h2{
+  font-family: "Elsie", cursive;
+}
