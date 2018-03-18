@@ -1,6 +1,7 @@
 /* This a comment */
-@import url(https://fonts.googleapis.com/css?family=Elsie)
-@import url(https://fonts.googleapis.com/css?family=Clicker+Script)
+@import url(https://fonts.googleapis.com/css?family=Elsie);
+@import url(https://fonts.googleapis.com/css?family=Clicker+Script);
+
 p {
   line-height: 1.5em;
   font-size: 1em;
